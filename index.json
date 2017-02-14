@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Abhaya Libre",
+    "default_fontface": "Regular",
+    "download_url": "https://github.com/mooniak/abhaya-libre-font/releases/download/v1.060/abhaya-libre-font_v1.060_20170212.zip",
+    "languages": ["English", "Sinhala"],
+    "license": "SIL Open Font License",
+    "version": "v1.060",
+    "resources": [
+      {
+        "Bold": "https://cdn.rawgit.com/mooniak/abhaya-libre-font/gh-pages/fonts/AbhayaLibre-Bold.otf",
+        "ExtraBold": "https://cdn.rawgit.com/mooniak/abhaya-libre-font/gh-pages/fonts/AbhayaLibre-ExtraBold.otf",
+        "Medium": "https://cdn.rawgit.com/mooniak/abhaya-libre-font/gh-pages/fonts/AbhayaLibre-Medium.otf",
+        "Regular": "https://cdn.rawgit.com/mooniak/abhaya-libre-font/gh-pages/fonts/AbhayaLibre-Regular.otf",
+        "SemiBold": "https://cdn.rawgit.com/mooniak/abhaya-libre-font/gh-pages/fonts/AbhayaLibre-SemiBold.otf"
+      }
+    ]
+  },
+
+  {
+    "name": "Gemunu Libre",
+    "default_fontface": "Regular",
+    "download_url": "https://github.com/mooniak/gemunu-libre-font/releases/download/1.001/gemunu-libre-font_v1.001_20160406.zip",
+    "languages": ["English", "Sinhala"],
+    "license": "SIL Open Font License",
+    "version": "v1.001",
+    "resources": [
+      {
+        "Bold": "https://cdn.rawgit.com/mooniak/gemunu-libre-font/gh-pages/tests/fonts/GemunuLibre-Bold.otf",
+        "ExtraBold": "https://cdn.rawgit.com/mooniak/gemunu-libre-font/gh-pages/tests/fonts/GemunuLibre-ExtraBold.otf",
+        "Light": "https://cdn.rawgit.com/mooniak/gemunu-libre-font/gh-pages/tests/fonts/GemunuLibre-Light.otf",
+        "Medium": "https://cdn.rawgit.com/mooniak/gemunu-libre-font/gh-pages/tests/fonts/GemunuLibre-Medium.otf",
+        "Regular": "https://cdn.rawgit.com/mooniak/gemunu-libre-font/gh-pages/tests/fonts/GemunuLibre-Regular.otf"
+      }
+    ]
+  },
+
+  {
+    "name": "Maname",
+    "default_fontface": "Regular",
+    "download_url": "dev",
+    "languages": ["English", "Sinhala"],
+    "license": "SIL Open Font License",
+    "version": "dev",
+    "resources": [
+      {
+        "Regular": "https://cdn.rawgit.com/mooniak/maname-fonts/gh-pages/fonts/otf/ManameInformal-Regular.otf"
+      }
+    ]
+  },
+
+  {
+    "name": "Post No Bills",
+    "default_fontface": "Regular",
+    "download_url": "https://github.com/mooniak/post-no-bills-font/releases/download/1.210/post-no-bills-font_v1.210_20160406.zip",
+    "languages": ["English", "Sinhala", "Tamil"],
+    "license": "SIL Open Font License",
+    "version": "v1.210",
+    "resources": [
+      {
+        "Bold": "https://cdn.rawgit.com/mooniak/post-no-bills-font/gh-pages/fonts/StickNoBills-Bold.otf",
+        "ExtraBold": "https://cdn.rawgit.com/mooniak/post-no-bills-font/gh-pages/fonts/StickNoBills-ExtraBold.otf",
+        "Light": "https://cdn.rawgit.com/mooniak/post-no-bills-font/gh-pages/fonts/StickNoBills-Light.otf",
+        "Medium": "https://cdn.rawgit.com/mooniak/post-no-bills-font/gh-pages/fonts/StickNoBills-Medium.otf",
+        "Regular": "https://cdn.rawgit.com/mooniak/post-no-bills-font/gh-pages/fonts/StickNoBills-Regular.otf",
+        "SemiBold": "https://cdn.rawgit.com/mooniak/post-no-bills-font/gh-pages/fonts/StickNoBills-SemiBold"
+      }
+    ]
+  },
+
+  {
+    "name": "Yaldevi",
+    "default_fontface": "Regular",
+    "download_url": "https://github.com/mooniak/yaldevi-fonts/releases/download/1.010/yaldevi-fonts_v1.010_20160406.zip",
+    "languages": ["English", "Sinhala", "Tamil"],
+    "license": "SIL Open Font License",
+    "version": "v1.210",
+    "resources": [
+      {
+        "Bold": "https://cdn.rawgit.com/mooniak/yaldevi-fonts/gh-pages/fonts/Ayanna-Bold.otf",
+        "ExtraLight": "https://cdn.rawgit.com/mooniak/yaldevi-fonts/gh-pages/fonts/Ayanna-ExtraLight.otf",
+        "Light": "https://cdn.rawgit.com/mooniak/yaldevi-fonts/gh-pages/fonts/Ayanna-Light.otf",
+        "Medium": "https://cdn.rawgit.com/mooniak/yaldevi-fonts/gh-pages/fonts/Ayanna-Medium.otf",
+        "Regular": "https://cdn.rawgit.com/mooniak/yaldevi-fonts/gh-pages/fonts/Ayanna-Regular.otf",
+        "SemiBold": "https://cdn.rawgit.com/mooniak/yaldevi-fonts/gh-pages/fonts/Ayanna-SemiBold"
+      }
+    ]
+  }
+]
