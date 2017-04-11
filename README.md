@@ -1,3 +1,3 @@
-#font-index
+# font-index
 
-Fonts list with metadata in Fontman font distribution.
+Fonts list with metadata for **custom Fontman for LakeHouse** font distribution.
